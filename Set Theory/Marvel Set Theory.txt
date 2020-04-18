@@ -8,6 +8,16 @@ Grixis (U/B/R) Villians
 
 Abzan (W/B/G) Outer Space
 
+
+-----------------
+Color Identities
+Blue: Control
+Red: Burn and Luck
+Green: Buffs and Combat
+White: Lifegain
+Black: Destruction/Pay Life
+------------------
+
 ------------------------------------
 Use of Characters in cards
 ------------------------------------
@@ -19,4 +29,43 @@ the MCU more accurately as well as help expand the card pool.
 There can still be sets of cards that perhaps break out of individual movies
 like a cycle of Infinity Stones, but each film will generally have 6-10 cards
 depicting the story and capturing the essence of the characters at that time.
+
+
+------------
+Movies:
+Iron Man
+Incredible Hulk
+Iron Man 2
+Thor 1
+Captain America 1
+Avengers
+Iron Man 3
+Thor 2
+Captain America 2
+Guardians 1
+Avanegers 2
+AntMan
+Captain America 3
+Doctor Strange
+Guardians 2
+Spiderman
+Thor 3
+Black Panther
+Avengers 3
+Ant man 2
+captain marvel
+Avengers 4
+Spiderman 2
+
+------
+
+-------------
+Card Cycles
+
+Bounce Lands
+
+Infinity Stone Mana Rock Cycle
+
+Avenger Cycle (Each character gets a signature card)
+
 
