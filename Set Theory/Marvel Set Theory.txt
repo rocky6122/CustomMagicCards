@@ -36,36 +36,49 @@ Movies:
 Iron Man
 Incredible Hulk
 Iron Man 2
-Thor 1
-Captain America 1
+Thor
+Captain America: The First Avenger
 Avengers
 Iron Man 3
-Thor 2
-Captain America 2
-Guardians 1
-Avanegers 2
+Thor: The Dark World
+Captain America: The Winter Soldier
+Guardians of The Galaxy
+Avengers: Age of Ultron
 AntMan
-Captain America 3
+Captain America: Civil War
 Doctor Strange
-Guardians 2
-Spiderman
-Thor 3
+Guardians Of the Galaxy Vol 2
+Spiderman: Homecoming
+Thor Ragnarok
 Black Panther
-Avengers 3
-Ant man 2
+Avengers Infinity War
+AntMan & The Wasp
 captain marvel
-Avengers 4
-Spiderman 2
+Avengers Endgame
+Spiderman: Far From Home
 
 ------
 
 -------------
 Card Cycles
 
-Bounce Lands
-
 Infinity Stone Mana Rock Cycle
 
 Avenger Cycle (Each character gets a signature card)
+
+------------------------------------
+Land Cycles
+
+Bounce Lands
+WU | DONE
+RW | DONE
+UB | DONE
+GB | DONE
+GR | DONE
+UR | DONE
+BW | DONE
+RB | DONE
+GW | DONE
+GU | DONE
 
 
