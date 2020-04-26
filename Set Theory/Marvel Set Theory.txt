@@ -1,14 +1,3 @@
-Suggested Color Archetypes:
-
-Azorius(W/U) Shield
-
-Rakdos(R/B) Hydra
-	
-Grixis (U/B/R) Villians
-
-Abzan (W/B/G) Outer Space
-
-
 -----------------
 Color Identities
 Blue: Control
@@ -17,6 +6,21 @@ Green: Buffs and Combat
 White: Lifegain
 Black: Destruction/Pay Life
 ------------------
+
+--------------------------------
+Suggested Color Archetypes:
+
+WU | Control
+UB | 
+BR |
+RG |
+GW |
+WB | 
+BG | 
+GU | Big Creatures
+UR | Spells Matter
+RW | Aggro Burn
+-------------------------------
 
 ------------------------------------
 Use of Characters in cards
@@ -63,22 +67,48 @@ Spiderman: Far From Home
 Card Cycles
 
 Infinity Stone Mana Rock Cycle
+Soul Stone    |
+Time Stone    |
+Space Stone   |
+Mind Stone    |
+Reality Stone |
+Power Stone   |
+
 
 Avenger Cycle (Each character gets a signature card)
+Captain America |
+Thor            |
+Hulk            |
+Black Widow     |
+Hawk Eye        | DONE
+Iron Man        |
 
 ------------------------------------
 Land Cycles
 
 Bounce Lands
 WU | DONE
+UB | DONE
+BR | DONE
+RG | DONE
+GW | DONE
+WB | DONE
+BG | DONE
+GU | DONE
+UR | DONE
+RW | DONE
+
+Shock Lands
+WU | DONE
 RW | DONE
 UB | DONE
-GB | DONE
-GR | DONE
-UR | DONE
-BW | DONE
-RB | DONE
-GW | DONE
+GB | 
+GR | 
+UR | 
+BW | 
+RB | 
+GW | 
 GU | DONE
+
 
 
