@@ -104,8 +104,8 @@ RW | DONE
 UB | DONE
 GB | 
 GR | 
-UR | 
-BW | 
+UR | DONE
+BW | DONE
 RB | 
 GW | 
 GU | DONE
