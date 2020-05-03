@@ -76,12 +76,13 @@ Power Stone   |
 
 
 Avenger Cycle (Each character gets a signature card)
-Captain America |
+Captain America | DONE
 Thor            |
 Hulk            |
 Black Widow     |
 Hawk Eye        | DONE
 Iron Man        |
+
 
 ------------------------------------
 Land Cycles
@@ -102,13 +103,26 @@ Shock Lands
 WU | DONE
 RW | DONE
 UB | DONE
-GB | 
-GR | 
+GB | DONE
+GR | DONE
 UR | DONE
 BW | DONE
-RB | 
-GW | 
+RB | DONE
+GW | DONE
 GU | DONE
 
+Mono Hideaway Lands
+W |
+U |
+B |
+R |
+G |
+
+Colorless Legendary Utility Lands
+Artifact    | DONE 
+Creature    |
+Enchantment | DONE
+Instant     |
+Sorcery     |
 
 
