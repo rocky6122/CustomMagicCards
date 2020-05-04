@@ -1,11 +1,11 @@
------------------
+--------------------------------
 Color Identities
 Blue: Control
 Red: Burn and Luck
 Green: Buffs and Combat
 White: Lifegain
 Black: Destruction/Pay Life
-------------------
+--------------------------------
 
 --------------------------------
 Suggested Color Archetypes:
@@ -34,7 +34,6 @@ There can still be sets of cards that perhaps break out of individual movies
 like a cycle of Infinity Stones, but each film will generally have 6-10 cards
 depicting the story and capturing the essence of the characters at that time.
 
-
 ------------
 Movies:
 Iron Man
@@ -60,8 +59,7 @@ AntMan & The Wasp
 captain marvel
 Avengers Endgame
 Spiderman: Far From Home
-
-------
+------------
 
 -------------
 Card Cycles
@@ -74,7 +72,6 @@ Mind Stone    |
 Reality Stone |
 Power Stone   |
 
-
 Avenger Cycle (Each character gets a signature card)
 Captain America | DONE
 Thor            |
@@ -82,7 +79,6 @@ Hulk            |
 Black Widow     |
 Hawk Eye        | DONE
 Iron Man        |
-
 
 ------------------------------------
 Land Cycles
@@ -112,17 +108,15 @@ GW | DONE
 GU | DONE
 
 Mono Hideaway Lands
-W |
-U |
-B |
-R |
-G |
+W | DONE
+U | DONE
+B | DONE
+R | DONE
+G | DONE
 
 Colorless Legendary Utility Lands
-Artifact    | DONE 
-Creature    |
+Artifact    | DONE
+Creature    | DONE
 Enchantment | DONE
-Instant     |
-Sorcery     |
-
-
+Instant     | DONE
+Sorcery     | DONE
