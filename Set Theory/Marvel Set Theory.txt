@@ -10,14 +10,14 @@ Black: Destruction/Pay Life
 --------------------------------
 Suggested Color Archetypes:
 
-WU | Control
+WU | 
 UB | 
 BR |
 RG |
-GW |
+GW | Vigilance Value
 WB | 
-BG | 
-GU | Big Creatures
+BG | Death and Destruction
+GU | Combat Complications
 UR | Spells Matter
 RW | Aggro Burn
 -------------------------------
