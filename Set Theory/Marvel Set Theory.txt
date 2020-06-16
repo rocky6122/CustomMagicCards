@@ -65,12 +65,12 @@ Spiderman: Far From Home
 Card Cycles
 
 Infinity Stone Mana Rock Cycle
-Soul Stone    |
-Time Stone    |
-Space Stone   |
-Mind Stone    |
-Reality Stone |
-Power Stone   |
+Soul Stone    | DONE
+Time Stone    | DONE
+Space Stone   | DONE
+Mind Stone    | DONE
+Reality Stone | DONE
+Power Stone   | DONE
 
 Avenger Cycle (Each character gets a signature card)
 Captain America | DONE
